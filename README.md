@@ -8,6 +8,17 @@ Gestionale completo per palestre con una **PWA per gli atleti** installabile sul
 
 **Stack:** Laravel 12 · PHP 8.2 · Inertia.js 2 · Vue 3 (Composition API) · Tailwind CSS · Vite 7 · PWA (Workbox, push notification) · Spatie Permission · Sanctum · PHPUnit · Pint + Larastan · GitHub Actions · MySQL / PostgreSQL / SQLite
 
+<p>
+  <img src="docs/img/dashboard.jpg" width="100%" alt="Dashboard amministratore: abbonamenti in scadenza e certificati medici critici">
+</p>
+<p>
+  <img src="docs/img/pwa-home.jpg" width="24%" alt="PWA atleta: home con scheda attiva e abbonamento">
+  <img src="docs/img/pwa-scheda.jpg" width="24%" alt="PWA atleta: modalità allenamento esercizio per esercizio">
+  <img src="docs/img/esercizi.jpg" width="49%" alt="Archivio esercizi con filtro per gruppo muscolare">
+</p>
+
+<sub>Screenshot dall'installazione demo (dati di prova).</sub>
+
 ## Area gestionale (amministratori e trainer)
 - **Clienti e trainer:** anagrafiche con foto, assegnazione trainer–cliente, anamnesi, misurazioni con grafico dei progressi, foto dei progressi.
 - **Abbonamenti e catalogo pacchetti:** mensile, a ingressi, annuale; avvisi di scadenza in dashboard e contatori nel menu.
